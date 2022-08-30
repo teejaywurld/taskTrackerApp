@@ -1,4 +1,6 @@
-This is a task tracker application built with React JS where "a task can be added", "a reminder can be set" and also, "tasks/reminders can be deleted"
+# This is a task tracker application built with React JS 
+
+where "a task can be added", "a reminder can be set" and also, "tasks/reminders can be deleted"
 
 I learnt about the core concepts and fundamentals of react looking at components, states, and hooks not leaving out routing.
 
