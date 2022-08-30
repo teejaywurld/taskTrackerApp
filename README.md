@@ -1,4 +1,4 @@
-# This is a task tracker application built with React JS 
+# This is a task tracker application with database built with React JS 
 
 where "a task can be added", "a reminder can be set" and also, "tasks/reminders can be deleted"
 
