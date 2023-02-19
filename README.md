@@ -10,4 +10,4 @@ I understood as well that "App" or "global" state refers to state that is availa
 
 I understood as well that React Hooks are functions that let its "hook" into the React state and lifecycle features from function components.
 
-The live view can be seen here:- https://task-management-tracker.herokuapp.com/
+The live view can be seen here:- https://taskstrackerapp.netlify.app/
